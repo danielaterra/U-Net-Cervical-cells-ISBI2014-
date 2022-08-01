@@ -8,7 +8,7 @@ Para execução:
       - os arquivos 'trainISBNI2014.csv' e 'valISBNI2014.csv' associam arquivos de imagem e máscara correspondentes
   2)  Abra o notebook 'DanielaCostaTerra_Seg_ISBI2014.ipynb' e altere CURRENT_PATH para a pasta raiz de 'dataset'
   
-TODO:
+TODO's:
 1) Saída da rede com 2 canais
 2) Pipeline especializado
  
