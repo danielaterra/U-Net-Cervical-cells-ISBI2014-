@@ -9,7 +9,7 @@ Para execução:
   2)  Abra o notebook 'DanielaCostaTerra_Seg_ISBI2014.ipynb' e altere CURRENT_PATH para a pasta raiz de 'dataset'
   
 TODO's:
-1) Alterar a saída da U-Net para 2 canais
+1) Alterar saída da U-Net para 2 canais
 2) Pipeline especializado
  
   
