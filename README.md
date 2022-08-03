@@ -10,6 +10,6 @@ Para execução:
   
 TODO's:
 1) Alterar saída da U-Net para 2 canais
-2) Pipeline especializado
+2) Pipeline especializado para pares (imagem/saída 2 canais)
  
   
